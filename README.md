@@ -1,7 +1,7 @@
-# ML-Tutorials
+# ML Tutorials
 This repository contains various tutorials presented by Ania at various occasions.
 
-1. Tutorials accompanying Ania's lectures at 2025 Winter School on "Physics of Machine Learning &amp; Machine Learning for Physics".
+1. Tutorials accompanying Ania's lectures at [2025 Winter School on "Physics of Machine Learning &amp; Machine Learning for Physics"](https://indico.fysik.su.se/event/8856/).
 
 - `Memorization_vs_generalization_vs_Hessian.ipynb` - <a target="_blank" href="https://colab.research.google.com/github/Shmoo137/ML-Tutorials/blob/main/Memorization_vs_generalization_vs_Hessian.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
